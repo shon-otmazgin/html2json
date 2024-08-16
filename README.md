@@ -71,4 +71,4 @@ Divide the dataset into three parts:
 3. **Loss Function:** Calculation with cross-entropy loss for each token.
 
 ### Evaluation Metrics
-Assess model performance using Precision, Recall, and F1-Score to ensure accurate classification of table elements.
+Assess model performance using Precision, Recall, and F1-Score to ensure accurate classification of all elements.
