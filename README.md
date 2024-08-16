@@ -1,4 +1,6 @@
 # HTML2JSON: Extracting and Classifying Data from HTML Tables
+HTML2JSON - not sure about the naming :)
+
 
 ## Definition
 Customer data is often presented in HTML tables, which typically include:
